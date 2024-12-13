@@ -333,10 +333,10 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@nousantx/tenoxui-styler@^0.1.11":
-  version "0.1.11"
-  resolved "https://registry.yarnpkg.com/@nousantx/tenoxui-styler/-/tenoxui-styler-0.1.11.tgz#ea524d85db2ed336d0fffd11f166ab017e7000b7"
-  integrity sha512-n3PdCPQS/cXZjA+ubeY56H5dYCIe+8GYJFAF4js+XYcc9aS5yW7MVeplM0N5HTeJIVnOB21MWU3CpxkkiSFL9g==
+"@nousantx/tenoxui-styler@^0.1.12":
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/@nousantx/tenoxui-styler/-/tenoxui-styler-0.1.12.tgz#b3a36f0eae80f06fbd207b4d4dd1262b36b901ef"
+  integrity sha512-mjOyL8zf0RqC8Aggo0SwhH+eOpGVXWuDLEvLS4duaPMmJAgJPeOPCYiEctX3Ae8LWSB9gh5zz8x5/16LmLWohA==
 
 "@preact/preset-vite@^2.9.1":
   version "2.9.3"
@@ -489,11 +489,6 @@
   version "4.28.1"
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.28.1.tgz#4dff5c4259ebe6c5b4a8f2c5bc3829b7a8447ff0"
   integrity sha512-ZvK2jBafvttJjoIdKm/Q/Bh7IJ1Ose9IBOwpOXcOvW3ikGTQGmKDgxTC6oCAzW6PynbkKP8+um1du81XJHZ0JA==
-
-"@tenoxui/core@^1.3.0-alpha.8":
-  version "1.3.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/@tenoxui/core/-/core-1.3.0-alpha.8.tgz#cc6120c19a9100b950d0618438a002c8ffa23dbb"
-  integrity sha512-Aa4SHZ39ttEuLlThNZj8HDuYwpTnAniAGtvGkr8IkloR3OU9ZrnLvFKYLk5/3eIm1ENCZYCsRKt2UZDNbOJfzw==
 
 "@types/estree@1.0.6":
   version "1.0.6"
