@@ -1,8 +1,8 @@
-import 'preact'
+import { h } from 'preact'
 
 declare module 'preact' {
   namespace JSX {
-    interface HTMLAttributes<T> {
+    interface TenoxUIAttr extends HTMLAttributes<HTMLElement> {
       child?: string
     }
   }
