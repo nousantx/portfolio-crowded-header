@@ -39,8 +39,8 @@ const ProjectCard = ({ project }: { project: ProjectData }) => (
             project.status === 'Stable'
               ? 'text-green-500'
               : project.status === 'Beta'
-              ? 'text-yellow-500'
-              : 'text-blue-500'
+                ? 'text-yellow-500'
+                : 'text-blue-500'
           }`}
         >
           {project.status}

@@ -4,9 +4,9 @@ export default createConfig({
   property: {
     'bg-opacity': '--bg-opacity',
     'text-opacity': '--text-opacity',
-    rt:{
-      "property": "transform",
-      value:"rotate({0})"
+    rt: {
+      property: 'transform',
+      value: 'rotate({0})'
     }
   },
   utilityClasses: {

@@ -1,7 +1,6 @@
 import { RiArrowRightDownLine } from '@remixicon/react'
 import { styler } from '../utils/styler'
 
-
 const HeroBanner = () => {
   styler()
   return (
